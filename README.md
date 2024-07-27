@@ -17,7 +17,7 @@ cd regression-algorithms
 ```
 2) Navigate to the desired algorithm folder:
 ```
-cd linear-regression
+cd Simple_Linear_Regression
 ```
 3) Install required dependencies
 ```
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 4) open jupyter notebook
 ```
-jupyter notebook algorithm_name.ipynb
+jupyter notebook Simple_Linear_Regression.ipynb
 ```
 <br>
 

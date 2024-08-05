@@ -7,6 +7,7 @@ This repository includes the following regression algorithms:<br>
 - Polynomial Regression <br>
 - Multiple Linear Regression <br>
 - Decision Tree Regression <br>
+- Random Forest Regression <br>
 
 # Getting Started
 To get started with this repository, follow these steps:

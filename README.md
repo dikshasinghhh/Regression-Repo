@@ -10,7 +10,7 @@ This repository includes the following regression algorithms:<br>
 - Random Forest Regression <br>
 
 # Getting Started
-To get started with this repository, follow these steps:
+To get started with this repository, follow these steps: 
 1) Clone the repository:
 ```
 git clone https://github.com/dikshasinghhh/regression-algorithms.git
